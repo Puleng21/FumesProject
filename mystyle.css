@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: pink;
+
+}
+
+
+.container{
+
+    position: relative;
+}
+.web{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    
+
+}
+
+#Pee{
+    float: right;
+    width: 900px;
+    height: 200px;
+    git
+}
+ #myimage{
+    float: left;
+    width: 400px;
+    height: 200px;
+    
+    
+    
+ }   
+    
+
+footer {
+    background-color: wheat;
+    padding: 10px;
+    color: black;
+    margin: 350px;
+    width: 1700px;
+    margin-left: auto;
+    text-align: center;
+}
